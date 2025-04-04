@@ -22,3 +22,8 @@ Techniques Used:
 🔹 XGBoost (Best accuracy: 93%) – Tuned using hyper-parameter optimization (Optuna)
 🔹 Naïve Bayes (MultinomialNB) – Compared with XGBoost for baseline performance
 
+## 🧠 Future Work
+
+- Fine-tuning BERT for sentiment classification
+- Adding visualizations to compare model performance
+- Deploying the best-performing model via a web interface
