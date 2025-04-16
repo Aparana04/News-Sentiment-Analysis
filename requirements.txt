@@ -1,8 +1,8 @@
 Streamlit
 Pandas
 NumPy
-Scikit- learn
-Job lib
+Scikit-learn
+Joblib
 Nltk
 Matplotlib
 seaborn
