@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+import pickle
 
 # Load model and vectorizer
 model = joblib.load("sentiment_model.pkl")
